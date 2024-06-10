@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+handwritten_ai_venv/
+
 __pycache__/
 *.py[cod]
 *$py.class
