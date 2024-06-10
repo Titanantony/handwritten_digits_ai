@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+handwritten_model.keras
 handwritten_ai_venv/
 
 __pycache__/
